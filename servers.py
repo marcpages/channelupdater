@@ -6,7 +6,7 @@
 ################       used to add and remove links to lists            ####################
 ############################################################################################
 UpdatefromServer = True
-UpdatefromServer_url = "http://dl.dropboxusercontent.com/s/kv1jv791xdpn5ql/servers_new.py"
+UpdatefromServer_url = "https://raw.githubusercontent.com/marcpages/channelupdater/master/servers.py"
 
 ############################################################################################
 ################            Message from server to User.                ####################
