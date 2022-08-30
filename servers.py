@@ -6,7 +6,7 @@
 ################       used to add and remove links to lists            ####################
 ############################################################################################
 UpdatefromServer = True
-UpdatefromServer_url = "https://raw.githubusercontent.com/marcpages/channelupdater/master/servers.py"
+UpdatefromServer_url = "https://gist.githubusercontent.com/marcpages/a2f18c236bdbe5311c27a9837564ca44/raw/"
 
 ############################################################################################
 ################            Message from server to User.                ####################
