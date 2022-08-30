@@ -32,7 +32,7 @@ NewVersion      = "0.7"
 ChannelLists = [
 ["Text to display on plugin","Link to ZIP file","Link to changelog file"],
 ########### Edit below #############
-["1 - [2014-03-13] - ZON (DVB-C) + Hispasat + Hotbird + Astra   -  (DVB-C tuner + DVB-S tuner)","http://bit.ly/chan_lista_1","http://bit.ly/chan_lista_1_txt"],
+["Llista 1","http://bit.ly/chan_lista_1","http://bit.ly/chan_lista_1_txt"],
 ["2 - [2014-03-13] - Hispasat + Hotbird + Astra","http://bit.ly/chan_lista_2","http://bit.ly/chan_lista_2_txt"],
 ["3 - [2014-03-13] - Hispasat","http://bit.ly/chan_lista_3","http://bit.ly/chan_lista_3_txt"],
 ["4 - [2014-03-13] - Hispasat + All satelites","http://bit.ly/chan_lista_4","http://bit.ly/chan_lista_4_txt"],
